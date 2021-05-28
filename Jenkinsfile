@@ -4,7 +4,8 @@ pipeline {
     stage('stage1') {
       steps {
         echo 'Hello, Today we are learning  Blue Ocean'
-        echo 'step2'
+        echo 'IBM_WebAppDevelopment1'
+        echo 'Status is Successfull'
       }
     }
 
